@@ -69,7 +69,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Purchase Book"
-        URL: "#"
+        URL: "https://www.amzn.com/gp/product/149173048X/"
       image:
         x: "img/works/radity-finance.jpg"
         _2x: "img/works/radity-finance@2x.jpg"
@@ -88,7 +88,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Purchase Book"
-        URL: "#"
+        URL: "https://www.amzn.com/dp/197725487X/"
       image:
         x: "img/works/swissfintech.jpg"
         _2x: "img/works/swissfintech@2x.jpg"
