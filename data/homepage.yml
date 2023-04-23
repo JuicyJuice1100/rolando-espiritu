@@ -9,12 +9,11 @@ showcase:
   subtitle: "M.D. | Author"
   description: ""
   image:
-    alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
+    alt: "Showcase Books"
+    x: "images/showcase/showcase.jpg"
   imageMobile:
-    alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/showcase-mobile.jpg"
+    alt: "Showcase Books"
+    x: "images/showcase/showcase.jpg"
 
   button:
     icon: "icon-mail-fill"
@@ -38,10 +37,6 @@ about:
     inspiration to his writing.  His earlier work is in illustrated comic magazine.  Roy 
     Espiritu lives in the Midwest.  He is a physician, married with three children.
     </p>"
-  button:
-    icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.linkedin.com/company/radity/"
   image:
     x: "img/who-am-i/user-picture.png"
     _2x: "img/who-am-i/user-picture@2x.png"
@@ -57,39 +52,25 @@ client_and_work:
       American suitor. As a Filipina, she struggled to be accepted into her new culture. 
       Although, she was quick to learn the foreign ways of her new country; she continued 
       to honor her culture, a knowledge she passes on to her daughter, Pearl.
-      Once Pearl grows up, she decides it is time to see her mothers birthplace. 
-      As soon as Pearl lands in the Philippines, she feels at home. She feels as 
-      though she learned about her home country through her mothers stories. 
-      She is at ease in the warm breeze, surrounded by the sound of the native tongue. 
-      She immerses herself in the culture and catches the eye of a wealthy local matriarch.  
-      The older woman thinks Pearl would make a perfect wife for her grandson. Pearl is soon 
-      spoiled and courted by the whole family, but a tragedy steals her dreams. She is cast 
-      out and must now find a way to still love the country of her mothers birth, the country that hurt her. 
-      Aurora was a strong woman in a foreign place; her daughter can be too."
+      Once Pearl grows up, she decides it is time to see her mothers birthplace..."
       button:
         icon: "icon-arrow-right"
         btnText: "Purchase Book"
         URL: "https://www.amzn.com/gp/product/149173048X/"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "images/works/IdealWoman.jpg"
       is_even: true
 
-    - title: "Swiss Fintech Website"
+    - title: "The Serpent's Guile"
       description: "THE SERPENT'S GUILE is a psychological thriller with three main characters - 
       a famous writer, his personal chauffeur and the unwitting biracial sex worker embroiled 
       into the dark world of the writer. All three of them hiding secrets, all puppets of greed, 
       all three magnificent liars. Set in an opulent background of the privileged few, 
-      it shows humanity at its lowest and at its most human element. Unlike books of same genre, 
-      readers know who the serpent is from the beginning. The crux is how each one of the 
-      three protagonists try to manipulate each other - like a game of chess, a charade, 
-      a cat and mouse game. A cliff hanger to the very last page, it keeps the readers 
-      guessing what happens next: who wins, who lives, and who dies."
+      it shows humanity at its lowest and at its most human element..."
       button:
         icon: "icon-arrow-right"
         btnText: "Purchase Book"
         URL: "https://www.amzn.com/dp/197725487X/"
       image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
-      is_even: false
+        x: "images/works/SerpentsGuile.jpg"
+      is_even: true
