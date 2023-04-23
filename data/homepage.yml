@@ -74,5 +74,5 @@ client_and_work:
         URL: "https://www.amzn.com/dp/197725487X/"
       image:
         x: "images/works/SerpentsGuile.jpg"
-        _x2: "images/works/IdealWoman.jpg"
+        _x2: "images/works/SerpentsGuile.jpg"
       is_even: true
