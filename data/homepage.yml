@@ -55,7 +55,7 @@ client_and_work:
       Once Pearl grows up, she decides it is time to see her mothers birthplace..."
       button:
         icon: "icon-arrow-right"
-        btnText: "Purchase Book"
+        btnText: "Purchase The Ideal Woman"
         URL: "https://www.amzn.com/gp/product/149173048X/"
       image:
         x: "images/works/IdealWoman.jpg"
@@ -70,7 +70,7 @@ client_and_work:
       it shows humanity at its lowest and at its most human element..."
       button:
         icon: "icon-arrow-right"
-        btnText: "Purchase Book"
+        btnText: "Purchase Serpent's Guile"
         URL: "https://www.amzn.com/dp/197725487X/"
       image:
         x: "images/works/SerpentsGuile.jpg"
