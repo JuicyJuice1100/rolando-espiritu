@@ -59,6 +59,7 @@ client_and_work:
         URL: "https://www.amzn.com/gp/product/149173048X/"
       image:
         x: "images/works/IdealWoman.jpg"
+        _x2: "images/works/IdealWoman.jpg"
       is_even: true
 
     - title: "The Serpent's Guile"
@@ -73,4 +74,5 @@ client_and_work:
         URL: "https://www.amzn.com/dp/197725487X/"
       image:
         x: "images/works/SerpentsGuile.jpg"
+        _x2: "images/works/IdealWoman.jpg"
       is_even: true
